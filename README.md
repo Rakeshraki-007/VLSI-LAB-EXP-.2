@@ -40,7 +40,7 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-2/assets/159053561/5872816e-975e-4d16-a8a6-498a00c6d7a6)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-.2/assets/161815387/e076f54c-6048-4766-bfa9-f299154d9650)
 
 
 
@@ -68,7 +68,8 @@ endmodule
 ```
 
 ### Output:
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-2/assets/159053561/e4fd9648-6f3d-49b0-8014-85c4e25a12e2)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-.2/assets/161815387/e28d8e0d-0b5e-452a-9caf-d576b1a4e220)
+
 
 
 
@@ -89,8 +90,7 @@ endmodule
 ```
 
 ### Output:
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-2/assets/159053561/796b1dd1-99b6-4cde-a138-a4b96635e13c)
-
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-.2/assets/161815387/324bd773-95e1-4def-8515-d9641c922a19)
 
 ## DEMULTIPLEXER:
 
@@ -117,7 +117,8 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-2/assets/159053561/fe830b55-7cf5-4e21-ad0c-b701b4347461)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-.2/assets/161815387/c1b5309f-2be9-4768-b946-d465295545ae)
+
 
 
 
@@ -159,8 +160,7 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-2/assets/159053561/a6eb4df4-7b9c-487b-bc91-9e786b35f880)
-
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-.2/assets/161815387/35d90b90-320f-4094-b078-d2ebadff67d4)
 
 
 ## RESULT:
